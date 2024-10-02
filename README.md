@@ -20,6 +20,6 @@
 <a href="https://www.facebook.com/rockyrakesh.bhasyam"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/facebook.png" width="30" /></a>
 <a href=""><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/twitter.png" width="30" /></a>
 <a href="https://www.instagram.com/rakesh_bhasyam/"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/instagram.png" width="30" /></a>
-<a href=""><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/medim.jpeg" width="34" /></a>
+<a href="https://medium.com/@rakesh998544"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/medim.jpeg" width="34" /></a>
 
 ## Thank you
