@@ -17,7 +17,7 @@
 
 ### 📫 Reach me:
 <a href=""><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/linkedin.png" width="30" /></a>
-<a href="https://www.linkedin.com/in/rakesh-bhasyam-6233971b5/"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/github-logo.png" width="30" /></a>
+<a href="https://www.linkedin.com/in/rakesh-bhasyam-08/"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/github-logo.png" width="30" /></a>
 <a href="https://www.facebook.com/rockyrakesh.bhasyam"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/facebook.png" width="30" /></a>
 <a href=""><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/twitter.png" width="30" /></a>
 <a href="https://www.instagram.com/rakesh_bhasyam/"><img src="https://github.com/samarsreddy/samarsreddy/blob/master/assets/instagram.png" width="30" /></a>
