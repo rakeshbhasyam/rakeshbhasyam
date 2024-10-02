@@ -5,7 +5,7 @@
  -->
 ### About Me:
 - 🤖 Machine Learning and AI enthusiast, constantly exploring the power of data and innovation.
-- 🌱 I’m pursuing M.Tech in AI-ML (2023-25) at BITS Pilani WILP, I'm a B.Tech graduate in CSE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
+- 🌱 I'm a B.Tech graduate in CSE from <a href="https://rguktrkv.ac.in/">IIIT RKValley</a>, RGUKT Andhra Pradesh, India
 - 📊 I'm good at Management, Marketing, Problem Solving, Python, Presentations.
 
 - See <a href="">My Portfolio</a>
